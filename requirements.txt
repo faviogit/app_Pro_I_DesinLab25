@@ -1,0 +1,3 @@
+Pillow
+docxtpl
+pandas==2.2.3

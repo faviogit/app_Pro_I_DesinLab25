@@ -1,0 +1,4 @@
+#como ingnorar la carpeta venv
+venv/
+# Ignorar archivos de entorno virtual
+*.env
